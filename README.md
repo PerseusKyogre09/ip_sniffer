@@ -23,8 +23,8 @@ This command-line utility allows you to scan an IP address (IPv4 or IPv6) for op
 ### Building from source
 
 ```bash
-git clone https://github.com/yourusername/port-sniffer-cli.git
-cd port-sniffer-cli
+git clone https://github.com/PerseusKyogre09/ip_sniffer.git
+cd ip_sniffer
 cargo build --release
 ```
 
